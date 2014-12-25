@@ -1,0 +1,4 @@
+/* css resets */
+aritcle, nav, section,footer, header, aside, main, content, div{
+	display:block;
+}
